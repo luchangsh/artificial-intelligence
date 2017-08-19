@@ -1,0 +1,1 @@
+Java implementation of search algorithms (BFS, DFS, Uniform-Cost Search, A* Search)

@@ -1,0 +1,1 @@
+Java implementation of First-Order Logic Resolution Inference algorithm
